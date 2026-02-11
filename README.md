@@ -1,88 +1,66 @@
 # Hi, I'm Ángel Gabriel Martínez Castillo 👋
 
-### Frontend & Fullstack Developer | Software Engineer
+### Frontend & Fullstack Developer
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Universidad Politécnica de Chiapas**
-- 🎨 Frontend-focused developer with solid **fullstack foundations**
-- ⚛️ Building modern, responsive and scalable web applications
-- 🔌 Experience integrating **APIs, databases and event-driven systems**
-- 🧠 Strong problem-solving mindset and clean architecture practices
-- 🌎 Spanish (Native) | English (Conversational)
-- 🚀 Open to **internships, junior roles and remote opportunities**
+Software Engineering student at Universidad Politécnica de Chiapas, focused on building modern web applications with a strong emphasis on frontend development.
+
+I work mainly with React, Angular and TypeScript, and I’m comfortable integrating APIs, databases and backend services. I care about clean code, good UI/UX and scalable solutions.
+
+Currently open to internships, junior roles and remote opportunities.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,go,python,java,express" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🧰 Tools & DevOps
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🛒 Athletic Store  
-**E-commerce platform** focused on young audiences  
-- Frontend development & UI customization  
-- Product catalog, branding and user experience  
-- Technologies: **Web, Frontend stack, CMS & e-commerce tools**
+**Athletic Store** – E-commerce platform  
+Frontend development, UI customization and product presentation.
 
----
+**BrailleVision** – Accessible exam platform  
+Fullstack web system focused on accessibility and structured exam flows.
 
-### ♿ BrailleVision  
-**Accessible web platform for visually impaired students**  
-- Exam system (Reading, Listening, Grammar)  
-- Audio-based interaction & inclusive UX  
-- Fullstack architecture with role-based flows  
+**EasyGrow** – IoT monitoring system  
+Sensor data visualization with web dashboard and backend integration.
+
+**AirSafe Tech** – Gas detection system  
+Event-driven backend with real-time monitoring and alerts.
 
 ---
 
-### 🌱 EasyGrow  
-**IoT-based greenhouse monitoring system**  
-- Sensor data visualization (ESP32)  
-- Web dashboard + backend services  
-- Focus on automation and real-time data  
+## 🤝 Contact
 
----
+LinkedIn:  
+https://www.linkedin.com/in/angel-gabriel-martinez-castillo-279b342a1  
 
-### 🚨 AirSafe Tech  
-**Gas leak detection & alert system**  
-- Real-time monitoring with sensors  
-- Event-driven backend + web alerts  
-- Automation and safety-focused logic  
+Email:  
+angelgmc115job@gmail.com  
 
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/angel-gabriel-martinez-castillo-279b342a1
-- 📧 Email:  
-  angelgmc115job@gmail.com
-- 🌐 Portfolio:  
-  https://www.gabriel-castillo.online/
-
----
-
-⭐ *Always learning. Always building.*
+Portfolio:  
+https://www.gabriel-castillo.online/
