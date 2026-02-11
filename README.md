@@ -1,72 +1,60 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Ángel Gabriel Martínez Castillo
-</h1>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Frontend+%26+Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+modern+web+applications" />
-  </a>
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-Software Engineering student focused on building modern and scalable web applications.  
-Frontend-oriented developer with solid backend foundations.
-
-I work mainly with **React, Angular, TypeScript**, and I’m comfortable integrating APIs, databases and backend services.
-
-Currently open to internships and junior opportunities.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind" />
+<!-- Animated Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:6C63FF&height=120&section=header&text=Ángel%20Gabriel%20Martínez%20Castillo&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,python,java,express" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
-</p>
-
----
-
-## 🚀 Selected Projects
-
-**Athletic Store** – E-commerce platform  
-Frontend development and UI customization.
-
-**BrailleVision** – Accessible exam platform  
-Fullstack web system focused on accessibility.
-
-**EasyGrow** – IoT monitoring system  
-Web dashboard with real-time sensor data.
-
-**AirSafe Tech** – Gas detection system  
-Event-driven backend with real-time alerts.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel112005&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel112005&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%26+Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+scalable+web+applications" />
+</p>
+
+---
+
+## 👨‍💻 About
+
+Frontend & Fullstack Developer focused on building scalable, well-structured web applications.
+
+Strong experience in modern frontend development with React, Angular and TypeScript, combined with backend integration, APIs, databases and event-driven systems.
+
+Clean code, performance and user experience are always priorities.
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,nodejs,go,express,mysql,mongodb,postgresql,docker,git,github" />
+</p>
+
+---
+
+## 🚀 Projects
+
+**Athletic Store**  
+E-commerce platform with custom frontend and product-focused UX.
+
+**BrailleVision**  
+Accessible web platform with structured exam flows and role-based logic.
+
+**EasyGrow**  
+IoT monitoring system with real-time data dashboards.
+
+**AirSafe Tech**  
+Event-driven gas detection and alert system.
+
+---
+
+## 📊 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel112005&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Angel112005/Angel112005/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -88,5 +76,5 @@ Event-driven backend with real-time alerts.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0A66C2&height=100&section=footer"/>
 </p>
